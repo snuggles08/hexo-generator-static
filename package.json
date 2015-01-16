@@ -1,0 +1,45 @@
+{
+  "name": "hexo-generator-static",
+  "version": "0.0.1",
+  "description": "Static HTML generator plugin for Hexo",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hexojs/hexo-generator-static.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hexojs/hexo-generator-static/issues"
+  },
+  "keywords": [
+    "hexo",
+    "static",
+    "html",
+    "generator"
+  ],
+  "author": {
+    "name": "foolyoghurt",
+    "email": "foolyoghurt@gmail.com",
+    "url": "foolyoghurt.github.io"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://raw.github.com/foolyoghurt/hexo-generator-static/master/LICENSE"
+  },
+  "dependencies": {
+    "file": "^0.2.2",
+    "ncp": "^1.0.1"
+  },
+  "homepage": "https://github.com/foolyoghurt/hexo-generator-static",
+  "scripts": {},
+  "_npmUser": {
+    "name": "foolyoghurt",
+    "email": "foolyoghurt@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "foolyoghurt",
+      "email": "foolyoghurt@gmail.com"
+    }
+  ],
+  "directories": {}
+}
