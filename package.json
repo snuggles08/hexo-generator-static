@@ -1,14 +1,14 @@
 {
-  "name": "hexo-generator-static",
+  "name": "hexo-generator-static-base",
   "version": "0.0.2",
   "description": "Static HTML generator plugin for Hexo",
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hexojs/hexo-generator-static.git"
+    "url": "https://github.com/snuggles08/hexo-generator-static-base.git"
   },
   "bugs": {
-    "url": "https://github.com/hexojs/hexo-generator-static/issues"
+    "url": "https://github.com/snuggles08/hexo-generator-static-base/issues"
   },
   "keywords": [
     "hexo",
@@ -17,19 +17,18 @@
     "generator"
   ],
   "author": {
-    "name": "foolyoghurt",
-    "email": "foolyoghurt@gmail.com",
-    "url": "foolyoghurt.github.io"
+    "name": "snuggles08",
+    "url": "snugglesstuff.net"
   },
   "license": {
     "type": "MIT",
-    "url": "https://raw.github.com/foolyoghurt/hexo-generator-static/master/LICENSE"
+    "url": "https://raw.github.com/foolyoghurt/hexo-generator-static-base/master/LICENSE"
   },
   "dependencies": {
     "file": "^0.2.2",
     "ncp": "^1.0.1"
   },
-  "homepage": "https://github.com/foolyoghurt/hexo-generator-static",
+  "homepage": "https://github.com/snuggles08/hexo-generator-static-base",
   "scripts": {},
   "_npmUser": {
     "name": "foolyoghurt",
