@@ -16,7 +16,7 @@ module.exports = function(locals, render, callback) {
       if (file[0] === '.') return;
 
       var filepath = path.join(dir_path, file);
-      route.set(path.relative(source_dir, filepath), fs.readFileSync(filepath));
+      route.set(filepath, fs.readFileSync(filepath));
     });
   });
 
